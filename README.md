@@ -73,6 +73,7 @@ Prepare your databases
 $ rake db:create
 $ rake db:migrate
 $ rake db:test:prepare
+$ rake db:seed
 ```
 
 ### Install the required gems:
